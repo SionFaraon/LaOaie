@@ -1,0 +1,197 @@
+<depozit nume="Magazinul Meu.SRL" adresa="Iasi" numar_produse="25">
+    <produs>
+        <cod>52836732</cod>
+        <denumire>LAY'S BBQ Flavored</denumire>
+        <descriere>sweetness of BBQ</descriere>
+        <pret>12</pret>
+        <stoc>50</stoc>
+        <pValabilitate>1 an</pValabilitate>
+    </produs>
+    <produs>
+        <cod>00845090</cod>
+        <denumire>Rulouri cu nuca si gem de caise</denumire>
+        <descriere>CAMARA NOASTRA</descriere>
+        <pret>13</pret>
+        <stoc>20</stoc>
+        <pValabilitate>6 luni</pValabilitate>
+    </produs>
+    <produs>
+        <cod>73328865</cod>
+        <denumire>Băutură bio pe bază de migdale</denumire>
+        <descriere>Vemondo</descriere>
+        <pret>6</pret>
+        <stoc>30</stoc>
+        <pValabilitate>6 luni</pValabilitate>
+    </produs>
+    <produs>
+        <cod>09919174</cod>
+        <denumire>Crenvurști de porc</denumire>
+        <descriere>Pikok</descriere>
+        <pret>14</pret>
+        <stoc>60</stoc>
+        <pValabilitate>3 luni</pValabilitate>
+    </produs>
+    <produs>
+        <cod>37701499</cod>
+        <denumire>Croasant cu șuncă și cașcaval</denumire>
+        <descriere>croasant</descriere>
+        <pret>2</pret>
+        <stoc>90</stoc>
+        <pValabilitate>1 zi</pValabilitate>
+    </produs>
+    <produs>
+        <cod>50836536</cod>
+        <denumire>Aripioare de pui</denumire>
+        <descriere>Culinea</descriere>
+        <pret>18</pret>
+        <stoc>40</stoc>
+        <pValabilitate>1 an</pValabilitate>
+    </produs>
+    <produs>
+        <cod>67188703</cod>
+        <denumire>Espresso Cremoso, cafea boabe</denumire>
+        <descriere>Bellarom</descriere>
+        <pret>32</pret>
+        <stoc>70</stoc>
+        <pValabilitate>2 ani</pValabilitate>
+    </produs>
+    <produs>
+        <cod>40212661</cod>
+        <denumire>Unt de arahide</denumire>
+        <descriere>Maribel</descriere>
+        <pret>7</pret>
+        <stoc>37</stoc>
+        <pValabilitate>1 an</pValabilitate>
+    </produs>
+    <produs>
+        <cod>76479342</cod>
+        <denumire>Carne de porc în suc propriu</denumire>
+        <descriere>Pikok</descriere>
+        <pret>10</pret>
+        <stoc>30</stoc>
+        <pValabilitate>5 ani</pValabilitate>
+    </produs>
+    <produs>
+        <cod>05840113</cod>
+        <denumire>Amandină</denumire>
+        <descriere>Chef select</descriere>
+        <pret>12</pret>
+        <stoc>30</stoc>
+        <pValabilitate>7 zile</pValabilitate>
+    </produs>
+    <produs>
+        <cod>0933097908394</cod>
+        <denumire>Aer conditionat BOSCH</denumire>
+        <descriere>Climate 3000i, 12000 BTU</descriere>
+        <pret>2079</pret>
+        <stoc>10</stoc>
+        <garantie>5 ani</garantie>
+    </produs>
+    <produs>
+        <cod>1267085813225</cod>
+        <denumire>Casti JVC HA-A7T2-B-E</denumire>
+        <descriere>True Wireless, Bluetooth</descriere>
+        <pret>150</pret>
+        <stoc>15</stoc>
+        <garantie>3 ani</garantie>
+    </produs>
+    <produs>
+        <cod>1610444097060</cod>
+        <denumire>Laptop Gaming ASUS</denumire>
+        <descriere>TUF F17 FX707ZC4-HX097</descriere>
+        <pret>4000</pret>
+        <stoc>30</stoc>
+        <garantie>7 ani</garantie>
+    </produs>
+    <produs>
+        <cod>6044177994193</cod>
+        <denumire>Televizor QLED Smart HISENSE</denumire>
+        <descriere>Ultra HD 4K, HDR, 164cm</descriere>
+        <pret>2300</pret>
+        <stoc>60</stoc>
+        <garantie>10 ani</garantie>
+    </produs>
+    <produs>
+        <cod>7566458433632</cod>
+        <denumire>Frigider auto VORTEX</denumire>
+        <descriere>VO1303, compresor, 27l</descriere>
+        <pret>780</pret>
+        <stoc>85</stoc>
+        <garantie>7 ani</garantie>
+    </produs>
+    <produs>
+        <cod>1868517258931</cod>
+        <denumire>Masina de spalat</denumire>
+        <descriere>WHIRLPOOL FFB</descriere>
+        <pret>1500</pret>
+        <stoc>25</stoc>
+        <garantie>6 ani</garantie>
+    </produs>
+    <produs>
+        <cod>9940517465415</cod>
+        <denumire>Apple iPhone 15 Pro Max</denumire>
+        <descriere>256GB, 5G</descriere>
+        <pret>4000</pret>
+        <stoc>78</stoc>
+        <garantie>1 an</garantie>
+    </produs>
+    <produs>
+        <cod>9516890521095</cod>
+        <denumire>Samsung Galaxy Watch6</denumire>
+        <descriere>44mm, BT, Graphite</descriere>
+        <pret>1000</pret>
+        <stoc>37</stoc>
+        <garantie>1 an</garantie>
+    </produs>
+    <produs>
+        <cod>5121212798613</cod>
+        <denumire>Microsoft Xbox Series X</denumire>
+        <descriere>1TB, Negru</descriere>
+        <pret>2000</pret>
+        <stoc>20</stoc>
+        <garantie>4 ani</garantie>
+    </produs>
+    <produs>
+        <cod>0879908477179</cod>
+        <denumire>Piscina rotunda Metal Frame</denumire>
+        <descriere>diametru 305 cm</descriere>
+        <pret>500</pret>
+        <stoc>35</stoc>
+        <garantie>6 luni</garantie>
+    </produs>
+    <produs>
+        <cod>63556384</cod>
+        <denumire>Cămașă Regular Fit</denumire>
+        <descriere>din amestec de in</descriere>
+        <pret>100</pret>
+        <stoc>15</stoc>
+    </produs>
+    <produs>
+        <cod>03379042</cod>
+        <denumire>Tricou prespălat</denumire>
+        <descriere>Boxy Fit</descriere>
+        <pret>50</pret>
+        <stoc>25</stoc>
+    </produs>
+    <produs>
+        <cod>29619412</cod>
+        <denumire>Hanorac Oversized Fit</denumire>
+        <descriere>Hanorac din molton gros</descriere>
+        <pret>160</pret>
+        <stoc>40</stoc>
+    </produs>
+    <produs>
+        <cod>6887956136520</cod>
+        <denumire>Baggy Cargo Jeans</denumire>
+        <descriere>Jeans cargo din denim</descriere>
+        <pret>180</pret>
+        <stoc>50</stoc>
+    </produs>
+    <produs>
+        <cod>4490222871155</cod>
+        <denumire>Pantaloni scurți</denumire>
+        <descriere>din molton Regular Fit</descriere>
+        <pret>50</pret>
+        <stoc>35</stoc>
+    </produs>
+</depozit>

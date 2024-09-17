@@ -1,0 +1,11 @@
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\bin\Debug\LaOaie.exe.config
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\bin\Debug\LaOaie.exe
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\bin\Debug\LaOaie.pdb
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.csproj.AssemblyReference.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.Properties.Resources.resources
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.csproj.GenerateResource.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.csproj.CoreCompileInputs.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.exe
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.pdb
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.LaOaie.resources
+C:\Users\alins\OneDrive\Desktop\Programe\Programe cpp\OOP\Proiecte\LaOaie\obj\Debug\LaOaie.Factura.resources
